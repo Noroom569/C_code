@@ -1,2 +1,2 @@
 # C_code
-C program learning
+learning C program 
